@@ -51,6 +51,4 @@ cd kodmark && npm install
 
 ## Screenshot
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|https://www.figma.com/file/BIDrgrruIWUezzF36p4TmU/Kodmark?node-id=0%3A1
+- https://www.figma.com/file/BIDrgrruIWUezzF36p4TmU/Kodmark?node-id=0%3A1
